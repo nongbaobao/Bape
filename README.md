@@ -1,6 +1,8 @@
 # Bape
 A injection client for Minecraft 1.8.9forge
 
+Bape-source.jar is a compressed file, you can directly unzip it,and bape-source is in it
+
 WARNING
 
 The completion degree of this client is very low and very unstable

@@ -5,7 +5,7 @@ import net.minecraft.launchwrapper.LaunchClassLoader;
 
 import java.lang.instrument.Instrumentation;
 
-public class VapuAttachPoint {
+public class AttachPoint {
     public static void agentmain(String args, Instrumentation instrumentation) throws Exception {
         for (Class<?> classes : instrumentation.getAllLoadedClasses()) {
             if (classes.getName().startsWith("net.minecraft.client.Minecraft")) {

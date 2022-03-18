@@ -7,7 +7,7 @@ WARNING
 
 The completion degree of this client is very low and very unstable
 
-If you encounter a crash during use (only vapulite without modification), you can feed back to issue
+If you encounter a crash during use, you can feed back to issue
 
 Please update logs
 
